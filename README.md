@@ -1,1 +1,20 @@
 # listas-m3u-py
+ 
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo= "https://images.app.goo.gl/R8M3MqYfoW6FticP9"  , TELEFUTURO 
+
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=88a2bdaffac6d69761b5a03bb0c8097b662f0fde27e95eba82295215fdcee5ed&exp=1654087795
+
+#EXTM3U
+
+#EXTINF:-2 ,SNT 
+
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MTc3ODEzLCJzZXNzaW9uIjoiNDUuMjI4LjEzOC4xOTkiLCJ3aGl0ZWxpc3QiOlsiNDUuMjI4LjEzOC4xOTkiXX0sInNpZ25hdHVyZSI6IjM2NDY0MDk4OThmOTExOGUyZDY3ODk2Y2Y5NjJiMTIxMTEwYmRiZjAifQ== 
+
+#EXTM3U
+
+#EXTINF:-3 ,C9N
+
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU0MTkwNDU0LCJzZXNzaW9uIjoiNDUuMjI4LjEzOC4xOTkiLCJ3aGl0ZWxpc3QiOlsiNDUuMjI4LjEzOC4xOTkiXX0sInNpZ25hdHVyZSI6IjY1ODNiYjE1NjI3ZjliNWE2MjM2MmZiMmZmNTM1MWRlYzU5MWQ0ZjQifQ==
+
